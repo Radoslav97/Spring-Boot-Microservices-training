@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "microservice2",
+      "type": "com.example.demo.config.MyConfiguration",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "microservice2.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    },
+    {
+      "name": "microservice2.phonenumber",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.config.MyConfiguration"
+    }
+  ],
+  "hints": []
+}
